@@ -175,7 +175,7 @@ root/
 
 ## Badges (Top-tier Repo Signal)
 
-```md id="badges"
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-Strict-3178C6?logo=typescript&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-Managed-000020?logo=expo&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-0.73-61DAFB?logo=react&logoColor=black)
@@ -184,7 +184,7 @@ root/
 ![OpenAI](https://img.shields.io/badge/AI-OpenAI-10A37F?logo=openai&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
-```
+
 
 ---
 
