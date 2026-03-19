@@ -11,18 +11,18 @@
 ```id="sys-arch"
                 ┌──────────────────────────┐
                 │        Mobile App        │
-                │  (Expo + React Native)  │
-                └──────────┬──────────────┘
+                │  (Expo + React Native)   │
+                └──────────┬───────────────┘
                            │
                            │ HTTPS / WebSocket
                            ▼
                 ┌──────────────────────────┐
                 │        Convex            │
                 │  (Realtime Backend)      │
-                │ - Queries               │
-                │ - Mutations             │
-                │ - Subscriptions         │
-                └──────────┬──────────────┘
+                │ - Queries                │
+                │ - Mutations              │
+                │ - Subscriptions          │
+                └──────────┬───────────────┘
                            │
         ┌──────────────────┼──────────────────┐
         ▼                  ▼                  ▼
@@ -176,10 +176,14 @@ root/
 ## Badges (Top-tier Repo Signal)
 
 ```md id="badges"
-![CI](https://github.com/your/repo/actions/workflows/ci.yml/badge.svg)
-![TypeScript](https://img.shields.io/badge/TypeScript-Strict-blue)
-![Expo](https://img.shields.io/badge/Expo-Managed-black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Strict-3178C6?logo=typescript&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-Managed-000020?logo=expo&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-0.73-61DAFB?logo=react&logoColor=black)
+![Convex](https://img.shields.io/badge/Backend-Convex-orange)
+![Clerk](https://img.shields.io/badge/Auth-Clerk-purple)
+![OpenAI](https://img.shields.io/badge/AI-OpenAI-10A37F?logo=openai&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 ```
 
 ---
